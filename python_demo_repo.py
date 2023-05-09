@@ -1,3 +1,1 @@
-print("Hello World")
-
-print("Bye bye")
+print("New File")
